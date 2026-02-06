@@ -1,4 +1,4 @@
-# GenAI - smart techniques
+# GenAI - smart techniques for developers
 smart techniques and prompts - to boost developer's daily work
 
 ------------------------------------------------------------------------
