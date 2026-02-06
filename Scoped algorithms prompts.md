@@ -1,6 +1,7 @@
 
 ## Ready-to-go algorithms prompts
-### the _a-third pyramid algorithm_ - to demonstrate that a Pyramid's volume is a third of a corresponding Cube's volume
+### the _a-third pyramid algorithm_ 
+to demonstrate that a **Pyramid's volume** is **a third of** a corresponding **Cube's volume**
 
   ```
   I'm building a pyramid from cubic blocks.
