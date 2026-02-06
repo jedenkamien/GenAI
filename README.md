@@ -1,4 +1,4 @@
-# GenAI
+# GenAI - smart techniques
 smart techniques and prompts - to boost developer's daily work
 
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ smart techniques and prompts - to boost developer's daily work
 **Example usage:** Demo built with code from https://github.com/dotnet/eShop.
 
 - starting point...
-<img width="930" height="479" alt="image" src="https://github.com/user-attachments/assets/3e4dce62-1249-4c8d-9eb9-478230e50274" />
+<img width="930" height="478" alt="image" src="https://github.com/user-attachments/assets/3e4dce62-1249-4c8d-9eb9-478230e50274" />
 
 - somewhere at implementation of step 3...
-<img width="930" height="485" alt="image" src="https://github.com/user-attachments/assets/bd40a4a7-89b0-46e5-85d0-ff8a4201c84b" />
+<img width="930" height="486" alt="image" src="https://github.com/user-attachments/assets/bd40a4a7-89b0-46e5-85d0-ff8a4201c84b" />
